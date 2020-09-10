@@ -139,7 +139,7 @@ header .navbar-default .navbar-nav li a {
 --*/
 #intro {
   padding: 100px 0;
-  background: linear-gradient(#01060c, #000000);
+  color: #01060c;
 }
 #intro .block h2 {
   padding-top: 35px;
